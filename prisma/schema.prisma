@@ -14,3 +14,4 @@ model libros {
   autor       String @db.VarChar(50)
   descripcion String @db.Text
 }
+
